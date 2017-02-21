@@ -1,4 +1,4 @@
-# parseChat
+# ParseChat
 
 ## Video Walkthrough 
 
